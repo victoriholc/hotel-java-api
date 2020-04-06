@@ -137,6 +137,10 @@ mvn integration-test
 In order to run the API, run the jar simply as following:
 
 ```
+Change the application.properties to adapt to your database configuration
+```
+
+```
 java -jar hotel-java-api-1.0.0.jar --spring.profiles.active=prod
 ```
     
