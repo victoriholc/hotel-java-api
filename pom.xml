@@ -27,7 +27,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<jjwt.version>0.9.1</jjwt.version>
-		<swagger.version>2.9.2</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 		<jmapper.version>1.1.1</jmapper.version>
 	</properties>
 
